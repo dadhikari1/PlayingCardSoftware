@@ -115,7 +115,7 @@ namespace playingCardGame
             //if-else block which analyzes the user input and repeats the game as per instructions.
             if (userResponse.Equals('y') || userResponse.Equals("yes"))
             {
-                WelcomeMessage();
+                Main();
             }
 
             else
