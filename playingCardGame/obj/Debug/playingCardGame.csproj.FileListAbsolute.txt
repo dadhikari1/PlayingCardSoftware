@@ -1,0 +1,6 @@
+C:\Users\IMCS\source\repos\playingCardGame\playingCardGame\bin\Debug\playingCardGame.exe.config
+C:\Users\IMCS\source\repos\playingCardGame\playingCardGame\bin\Debug\playingCardGame.exe
+C:\Users\IMCS\source\repos\playingCardGame\playingCardGame\bin\Debug\playingCardGame.pdb
+C:\Users\IMCS\source\repos\playingCardGame\playingCardGame\obj\Debug\playingCardGame.csprojAssemblyReference.cache
+C:\Users\IMCS\source\repos\playingCardGame\playingCardGame\obj\Debug\playingCardGame.exe
+C:\Users\IMCS\source\repos\playingCardGame\playingCardGame\obj\Debug\playingCardGame.pdb
